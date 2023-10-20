@@ -1,0 +1,6 @@
+#Projeto de saida não versionado
+maui-project/
+
+#Arquivos não versionados.
+xamarin2maui/node_modules/
+xamarin2maui/package-lock.json
